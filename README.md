@@ -15,11 +15,11 @@
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 Effective cost control is key for the success of a software project since it ensures that the project remains within budget, while still maximizing profitability and resource efficiency. When costs are well managed, the project is likely to meet its financial goals, avoid delays, and maintain stakeholder satisfaction.
 #### Contribution of Effective Cost Control to Project Success:
-Preventing Budget Overruns: Ensures that the project does not exceed the allocated budget, which can lead to financial losses or the project being halted.
-Optimizing Resource Allocation: Helps in using resources (e.g., personnel, tools, infrastructure) more efficiently, preventing waste.
-Ensuring Long-term Profitability: By controlling costs, the project can generate a higher return on investment (ROI), making it sustainable.
-Maintaining Stakeholder Trust: Staying within budget reinforces trust with clients and investors, showing that the project is well-managed and reliable.
-Enhancing Decision-making: Proper cost control provides financial clarity, helping managers make informed decisions about resource reallocation or process adjustments.
+* Preventing Budget Overruns: Ensures that the project does not exceed the allocated budget, which can lead to financial losses or the project being halted.
+* Optimizing Resource Allocation: Helps in using resources (e.g., personnel, tools, infrastructure) more efficiently, preventing waste.
+* Ensuring Long-term Profitability: By controlling costs, the project can generate a higher return on investment (ROI), making it sustainable.
+* Maintaining Stakeholder Trust: Staying within budget reinforces trust with clients and investors, showing that the project is well-managed and reliable.
+* Enhancing Decision-making: Proper cost control provides financial clarity, helping managers make informed decisions about resource reallocation or process adjustments.
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
