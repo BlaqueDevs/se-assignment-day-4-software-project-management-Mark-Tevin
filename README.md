@@ -21,6 +21,16 @@ Effective cost control is key for the success of a software project since it ens
 * Maintaining Stakeholder Trust: Staying within budget reinforces trust with clients and investors, showing that the project is well-managed and reliable.
 * Enhancing Decision-making: Proper cost control provides financial clarity, helping managers make informed decisions about resource reallocation or process adjustments.
 
+### Strategies to Prevent Budget Overruns:
+1. Accurate Estimation and Planning: Use detailed planning tools like Work Breakdown Structures (WBS) to estimate costs accurately, considering all potential expenses (personnel, tools, third-party services).
+2. Define Project Scope Clearly: Avoid scope creep by establishing clear requirements and deliverables upfront. Any changes to the scope should go through a formal approval process with cost implications reviewed.
+3. Regular Budget Monitoring: Use financial tracking tools to monitor spending in real time. Regularly compare actual costs to budgeted amounts and make adjustments as needed.
+4. Use Agile or Iterative Approaches: Break the project into smaller phases or sprints, enabling more frequent assessment of financial performance and allowing for course correction.
+5. Risk Management: Identify potential risks that could lead to unexpected expenses and build contingencies into the budget to cover those risks.
+6. Vendor and Contract Management: Negotiate favorable terms with vendors, and manage contracts carefully to avoid hidden fees or unexpected cost increases.
+7. Optimize Resource Usage: Ensure that the right amount of resources is allocated to tasks. Avoid overallocation or underutilization of personnel and assets.
+8. Time Management: Ensure that timelines are adhered to since project delays can lead to increased labor and overhead costs.
+
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
