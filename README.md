@@ -200,7 +200,7 @@ A Work Breakdown Structure (WBS) is a hierarchical decomposition of the total sc
 - Progress Tracking: The WBS serves as a blueprint for monitoring the project's progress. As tasks are completed, they can be marked off in the WBS, giving stakeholders a clear view of how much work remains and whether the project is on track.
 - Change Management: When changes need to be made to the project, a WBS allows for easy identification of the specific components or tasks that are affected. This helps manage changes without disrupting the entire project.
 
-<u>Example of a simplified WBS Structure for a software development project:</u>
+<u> Example of a simplified WBS Structure for a software development project: </u>
 
 Software Development Project (Level 1)
 1.1 Planning (Level 2)
