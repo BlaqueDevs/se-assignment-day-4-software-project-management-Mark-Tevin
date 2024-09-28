@@ -199,6 +199,30 @@ A Work Breakdown Structure (WBS) is a hierarchical decomposition of the total sc
 - Risk Identification and Management: A WBS helps in identifying potential risks at various levels of the project. By breaking tasks into smaller components, project managers can assess which tasks are more vulnerable to issues and proactively develop risk mitigation strategies.
 - Progress Tracking: The WBS serves as a blueprint for monitoring the project's progress. As tasks are completed, they can be marked off in the WBS, giving stakeholders a clear view of how much work remains and whether the project is on track.
 - Change Management: When changes need to be made to the project, a WBS allows for easy identification of the specific components or tasks that are affected. This helps manage changes without disrupting the entire project.
+
+<u>Example of a simplified WBS Structure for a software development project:</u>
+
+Software Development Project (Level 1)
+1.1 Planning (Level 2)
+- 1.1.1 Define Requirements
+- 1.1.2 Create Project Plan
+1.2 Design (Level 2)
+- 1.2.1 UI/UX Design
+- 1.2.2 System Architecture Design
+1.3 Development (Level 2)
+- 1.3.1 Backend Development
+- 1.3.2 Frontend Development
+- 1.3.3 Database Integration
+1.4 Testing (Level 2)
+- 1.4.1 Unit Testing
+- 1.4.2 Integration Testing
+- 1.4.3 User Acceptance Testing
+1.5 Deployment (Level 2)
+- 1.5.1 Production Environment Setup
+- 1.5.2 Application Deployment
+1.6 Post-Launch (Level 2)
+- 1.6.1 Bug Fixes
+- 1.6.2 Performance Optimization
   
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
